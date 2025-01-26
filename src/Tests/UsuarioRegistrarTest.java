@@ -13,9 +13,8 @@ public class UsuarioRegistrarTest {
 		// probamos el metodo registrar usuario
 		////////////////////////////////////////////////////////
 		
-		tblusuario.setIdusuariot1(2);
-		tblusuario.setUsuariot1("maria32323");
-		tblusuario.setPasswordt1("yyyyyyy");
+		tblusuario.setUsuariot1("josecscscs");
+		tblusuario.setPasswordt1("cscscscs");
 
         tblusuarioimp.RegistrarUsuario(tblusuario);
         System.out.println("usuario registrado");

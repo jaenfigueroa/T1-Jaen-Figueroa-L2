@@ -12,7 +12,7 @@ public class UsuarioEliminarTest {
         ////////////////////////////////////////////////////////
         // probamos el metodo eliminar
         ////////////////////////////////////////////////////////
-		tblusuario.setIdusuariot1(2);
+		tblusuario.setIdusuariot1(6);
 		
         tblusuarioimp.EliminarUsuario(tblusuario);
         System.out.println("Usuario eliminado");

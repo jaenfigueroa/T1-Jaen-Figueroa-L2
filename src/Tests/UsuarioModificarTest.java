@@ -12,8 +12,8 @@ public class UsuarioModificarTest {
         ////////////////////////////////////////////////////////
         // probamos el metodo actualizar usuario
         ////////////////////////////////////////////////////////
-		tblusuario.setIdusuariot1(1);
-		tblusuario.setUsuariot1("jaen32323");
+		tblusuario.setIdusuariot1(7);
+		tblusuario.setUsuariot1("josesanchez32323");
 		tblusuario.setPasswordt1("xxxxxxxx");
 
         tblusuarioimp.ActualizarUsuario(tblusuario);

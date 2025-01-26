@@ -12,7 +12,7 @@ public class UsuarioBuscarTest {
         ////////////////////////////////////////////////////////
         // probamos el metodo buscar usuario
         ////////////////////////////////////////////////////////
-		tblusuario.setIdusuariot1(1);;
+		tblusuario.setIdusuariot1(943);;
 		
 		TblUsuariot1 usuarioencontrado = tblusuarioimp.BuscarUsuario(tblusuario);
 		

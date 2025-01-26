@@ -12,7 +12,7 @@ public class ProductoEliminarTest {
         ////////////////////////////////////////////////////////
         // probamos el metodo eliminar producto
         ////////////////////////////////////////////////////////
-		tblProd.setIdproductot1(2);
+		tblProd.setIdproductot1(4);
 		
         tblprodimp.EliminarProducto(tblProd);
         System.out.println("Producto eliminado en base de datos");
