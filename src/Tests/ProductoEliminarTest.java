@@ -3,7 +3,7 @@ package Tests;
 import Dao.TblProductoImp;
 import model.TblProductot1;
 
-public class TestEliminarProducto {
+public class ProductoEliminarTest {
 
 	public static void main(String[] args) {
 		TblProductot1 tblProd = new TblProductot1();

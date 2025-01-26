@@ -6,7 +6,7 @@ import java.util.Date;
 import Dao.TblProductoImp;
 import model.TblProductot1;
 
-public class TestModificarProducto {
+public class ProductoModificarTest {
 
 	public static void main(String[] args) {
 		TblProductot1 tblProd = new TblProductot1();
